@@ -106,7 +106,7 @@ public class CrewUpdateController {
 			// 2. 마이페이지 크루가입 내역으로 가기
 			
 		}else { //가입실패
-			//원래의 페이지로 돌아가기
+			//원래의 페이지로 돌아가기 brcA update
 		}
 	
 		return mav;
